@@ -5,8 +5,7 @@
 The Psychologist App is designed for psychologists to connect with their customers.
 This is backend part. Frontend part is in psychologist_app_web repository.
 
-Before start, run scripts to create necessary database tables and fill them with initial data.
-Scripts for creating tables and seeding data are in separate files.
+Before start, run scripts "Initial script.sql" and "Seed data psychologist.sql" to create necessary database tables and fill them with initial data.
 
 Add .env file to the root of the project.
 In .env specify following variables:
